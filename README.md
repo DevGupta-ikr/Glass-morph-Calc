@@ -1,6 +1,7 @@
-## Glass-morph-Calc
+## Calculator made with Glassmorphism
+       +(Tilt JS)
 
-[(⌐■_■)](https://devgupta-ikr.github.io/Glass-morph-Calc/)
+### Open Page Here --|   [(⌐■_■)](https://devgupta-ikr.github.io/Glass-morph-Calc/)  | 
 
 <br>
 
@@ -8,8 +9,7 @@
 
 <br>
 
-### To Open in VS Code
-
+### To Open in VS Code :
 <a href="https://github1s.com/DevGupta-ikr/Glass-morph-Calc">
          <img alt="Qries" src="https://user-images.githubusercontent.com/77541795/120004506-7ae9cc00-bff4-11eb-9ef5-9761a25e6338.png" width=440" height="160">
 </a>
